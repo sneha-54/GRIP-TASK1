@@ -8,6 +8,6 @@ We had to create a simple dynamic website on "Basic Banking System" which should
 *No Login Page or User Creation required.   
 *Host the website at 000webhost, github.io, heroku app or any other free hosting provider.    
 *Check in code in gitlab.
-  So,I have created a simple dynamic website "DIGITAL PAISA", a banking website which fascilitates the user with the details of all clients including their bank balance,transfer funds from one client to other, provide bank statements of clients and show the records of all transactions.
-  In this website, I have taken random hypothetical 10 clients and details.
-  I have made the complete website using HTML,CSS,PHP and mySQL.
+-So,I have created a simple dynamic website "DIGITAL PAISA", a banking website which fascilitates the user with the details of all clients including their bank balance,transfer funds from one client to other, provide bank statements of clients and show the records of all transactions.
+-In this website, I have taken random hypothetical 10 clients and details.
+-I have made the complete website using HTML,CSS,PHP and mySQL.
